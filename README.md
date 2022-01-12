@@ -1,10 +1,12 @@
-# study-projects-htw
+*Please find German version below*
+# (EN) Project "Wine shop" - Java - Applied programming
+Study project at the University of Applied Sciences Berlin (HTW Berlin).   
+I was a student in а Business Computing study program (Wirtschaftsinformatik).  
 
-Study projects for HTW Berlin (Business Computing)  
-2. Semester  
-Applied Programming Programmierung - Java:  
-1) Project "Wine shop" (in Folder "1_Weinladen"):  
-Implementation of a software solution for processing and storing customer information in the online shop using Java base classes and collections.  
+2. Semester, April-September 2018.   
+
+Implementation of a software solution for processing and storing customer information in the online shop using Java base classes and collections.   
+
 	Study Assignment:  
 	- Part 1: Basic classes and Generics (Weinladen_Aufgabe 1_Basisklassen und Generics.pdf)  
 	- Part 2: Streams (Weinladen_Aufgabe 2_Streams.pdf)  
@@ -17,27 +19,25 @@ Implementation of a software solution for processing and storing customer inform
 	- Working with collection classes  
 	- Streams  
 	- Documentation in JavaDoc-style  
- 2) Project "Plotter" (in Folder "2_Plotter"):  
- Swing-based application for drawing graphs with coordinate points, using Java Swing components for user interface, java collections (LinkedList), MVC, Observer patterns and working with a process in separate thread.  
- 	Study Assignment:    
-	- Plotter Aufgabe - Swing Observer MVC.pdf  
-	Learning targets:    
-	- Use of Collection classes
-	- Swing components (JPanel, JTextArea, JLabel, JTextField and JButton)
-	- MVC design pattern
-	- Threads
-	- Documentation in JavaDoc style  
+## Author
+Olga Petrova
+- GitHub: [@olgapetrova-git](https://github.com/olgapetrova-git)
+- LinkedIn: [Olga Petrova](https://www.linkedin.com/in/olga-petrova-berlin/)
+## License
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+Do not use and hand in this project as your own assignment in the studies!
+# (DE) Projekt "Weinladen"  - Java - Angewandte Programmierung	  
+Studienprojekt während des Studiums an der HTW Berlin (Hochschule für Technik und Wirtschaft Berlin).    
+Studiengang Wirtschaftsinformatik B.Sc.     
+
+2. Semester, April-September 2018. 
 	
-Deutsch:  
-Studienprojekte während des Studiums an der HTW Berlin (Wirtschaftsinformatik)    
-2. Semester  
-Angewandte Programmierung - Java:   
-1) Projekt "Weinladen" (im Ordner "1_Weinladen"): 
-Implementierung einer Softwarelösung zur Verarbeitung und Speicherung von Kundeninformationen im Weinhändler Online-Shop unter Verwendung von Java-Basisklassen und -Kollektionen.  
+Implementierung einer Softwarelösung zur Verarbeitung und Speicherung von Kundeninformationen im Weinhändler Online-Shop unter Verwendung von Java-Basisklassen und -Kollektionen.       
+	
 	Aufgabe:
 	- Teil 1: Weinladen_Aufgabe 1_Basisklassen und Generics.pdf
-	- Teil 2: Weinladen_Aufgabe 2_Streams.pdf   
-	Lernziele:    
+	- Teil 2: Weinladen_Aufgabe 2_Streams.pdf
+	Lernziele:
 	- Vererbung
 	- Arbeiten mit generischen Klasse (Java-Generics)
 	- Arbeiten mit abstrakten Klassen
@@ -46,12 +46,10 @@ Implementierung einer Softwarelösung zur Verarbeitung und Speicherung von Kunde
 	- Verwendung von Collection-Klassen
 	- Streams
 	- Dokumentation im JavaDoc-Style
-2) Projekt "Plotter" (im Ordner "2_Plotter): Swing-basierte Anwendung zum Zeichnen von Graphen mit Koordinatenpunkten. Verwenden von Java-Swing-Komponenten für Benutzeroberfläche, Java-Kollectionen (verknüpfte Liste), MVC- und Observer-Entwurfsmuster und ausführen einen Prozess in einem separaten Thread.   
-	Aufgabe:  
-	- Plotter Aufgabe - Swing Observer MVC.pdf  
-	Lernziele:    
-	- Verwendung von Collection-Klassen
-	- Swing-Komponenten (z. B. JPanel, JTextArea, JLabel, JTextField und JButton)
-	- MVC-Entwurfsmuster
-	- Threads
-	- Dokumentation im JavaDoc-Style
+## Autor
+Olga Petrova
+- GitHub: [@olgapetrova-git](https://github.com/olgapetrova-git)
+- LinkedIn: [Olga Petrova](https://www.linkedin.com/in/olga-petrova-berlin/)
+ ## Lizenz
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+Reichen Sie dieses Projekt nicht als Ihre eigene Lernaufgabe im Studium ein. 
